@@ -1,0 +1,8 @@
+Personal workflow configuration
+===============================
+
+My current working device is M1 Mac Air with MacOS Sonoma installed on it (no SIP).
+
+This repo includes my preferences, settings and just configs not only for my workflows, but also text editor, terminal and more.
+
+Most of the dot files do not have any hardcoded values or path. Everything can be used out of the box by downloading or cloning this repo directly.
