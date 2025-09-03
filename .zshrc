@@ -59,3 +59,5 @@ export PATH="$PYTHON/bin:$PATH"
 # Created by `pipx` on 2025-08-31 07:46:28
 export PATH="$PATH:/Users/evan/.local/bin"
 export PATH="$PATH:/Users/evan/Shellman/bin"
+
+alias cat='bat'
