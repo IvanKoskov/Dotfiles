@@ -11,3 +11,16 @@ Most of the dot files do not have any hardcoded values or path. Everything can b
 I use a tool called ```stow```. While dotfiles are just alieses they still require you to organize them.
 
 Install ```stow``` using [HomeBrew](https://brew.sh) and ```brew install stow```. 
+
+## Untracked files or folders
+
+Below is description of all configurations which is partially or fully is not included 
+in the repo.
+
+| Tool | Specific exclusions|
+| ----------- | ----------- |
+| Firefox | Custom settings |
+
+## Software of choice
+
+Default tools, apps or anything that i can use for a specific task.
