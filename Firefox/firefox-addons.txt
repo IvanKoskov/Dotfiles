@@ -1,0 +1,14 @@
+uBlock0@raymondhill.net | uBlock Origin | 1.65.0
+jid1-MnnxcxisBPnSXQ@jetpack | Privacy Badger | 2025.5.30
+adguardadblocker@adguard.com | AdGuard AdBlocker | 5.1.139
+addon@darkreader.org | Dark Reader | 4.9.110
+jid1-ZAdIEUB7XOzOJw@jetpack | DuckDuckGo Search & Tracker Protection | 2025.7.23
+sponsorBlocker@ajay.app | SponsorBlock - Skip Sponsorships on YouTube | 5.14
+{74145f27-f039-47ce-a470-a662b129930a} | ClearURLs | 1.27.3
+{7a7a4a92-a2a0-41d1-9fd7-1e92480d612d} | Stylus | 2.3.16
+extension@tabliss.io | Tabliss - New Tab | 2.6.0
+@contain-facebook | Facebook Container | 2.3.12
+87677a2c52b84ad3a151a4a72f5bd3c4@jetpack | Grammarly: AI Writing and Grammar Checker App | 8.933.0
+FirefoxColor@mozilla.com | Firefox Color | 2.1.7
+fdm_ffext2@freedownloadmanager.org | Free Download Manager official extension | 3.2.2
+{d7742d87-e61d-4b78-b8a1-b469842139fa} | Vimium | 2.3
